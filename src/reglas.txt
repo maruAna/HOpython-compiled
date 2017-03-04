@@ -1,0 +1,4 @@
+para generar el objeto para luego "invocarlo" desde python
+
+objeto de c: gcc -fpic -c add_two.c -o add_two.o
+
